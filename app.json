@@ -14,7 +14,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "100"
+      "size": "eco"
     }
   },
   "addons": [
